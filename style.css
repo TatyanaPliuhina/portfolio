@@ -107,11 +107,11 @@ body {
 }
 
 .skill-piano {
-  background-image: url("img/icon-html.svg");
+  background-image: url("img/icon-piano.png");
 }
 
 .skill-blender {
-  background-image: url("img/icon-css.svg");
+  background-image: url("img/icon-blender.png");
 }
 
 .level {
